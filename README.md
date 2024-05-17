@@ -1,5 +1,5 @@
-<h2>these are my personal dotfilles</h2>
-=======================================================
+these are my personal dotfilles
+
     DE          :  Unity7.5
     WM          :  Compiz
     Terminal    :  Gnome-terminal
@@ -9,17 +9,19 @@
     MusicPlayer :  lollypop
     VideoPlayer :  mpv[Primary], vlc[Secondary]
     Torrent     :  qbittorrent
-========================================================
+
+
     Gtk-Theme   :  Juno-Mirage
     Qt-theme    :  FluentDark[kvantum]
 
     Icon-theme  :  FlatOnBlack [Mix of several themes..]
-=========================================================
+    
+
 Screenshots:
-![](screenshot/1. show_off.png)
-![](screenshot/2. lollypop.png)
-![](screenshot/3. nvimCodeCxx.png)
-![](screenshot/4. nvimCodeCxxOutput.png)
-![](screenshot/5. libreWriter.png)
-![](screenshot/6. BlankDesktop.png)
-![](screenshot/7. QTwithKvantum.png)
+![](screenshots/Preview1.png)
+![](screenshots/Preview2.png)
+![](screenshots/Preview3.png)
+![](screenshots/Preview4.png)
+![](screenshots/Preview5.png)
+![](screenshots/Preview6.png)
+![](screenshots/Preview7.png)
