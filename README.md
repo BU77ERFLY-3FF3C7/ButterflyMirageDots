@@ -26,5 +26,5 @@ Screenshots:
 ![](screenshots/Preview6.png)
 ![](screenshots/Preview7.png)
 
-juno palenight + Butterfly-Remix [it's mix of oranchelo-icon-theme, obisidian and zafiro]
+juno palenight + Butterfly-Remix [it's mix of oranchelo, obisidian and zafiro icons]
 ![](screenshots/Preview8.png)
