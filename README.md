@@ -5,7 +5,7 @@ these are my personal dotfilles
     Terminal    :  Gnome-terminal
     Editor      :  nvim
     FileManager :  Nautilus
-    Ofiice      :  Libre
+    Office      :  Libre
     MusicPlayer :  lollypop
     VideoPlayer :  mpv[Primary], vlc[Secondary]
     Torrent     :  qbittorrent
