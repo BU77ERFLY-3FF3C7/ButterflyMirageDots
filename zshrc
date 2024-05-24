@@ -53,8 +53,8 @@ alias edit_readme='nano README.md'
 alias yt-dlp_ext='yt-dlp --embed-thumbnail --external-downloader=aria2c --external-downloader-args '--min-split-size=1M --max-connection-per-server=16 --max-concurrent-downloads=16 --split=16''
 
 # all about mangas here 
-alias mangadex-dl='mangadex-dl --save-as cbz --write-tachiyomi-info'
-alias mangadex-dl-asurascans='mangadex-dl mangadex-dl --save-as cbz --write-tachiyomi-info --use-volume-cover  -g cd2b6a0e-bd86-4a48-b9d0-904d6335fc8d'
+alias mangadex-dl='mangadex-dl --write-tachiyomi-info'
+alias mangadex-dl-asurascans='mangadex-dl mangadex-dl --write-tachiyomi-info --use-volume-cover  -g cd2b6a0e-bd86-4a48-b9d0-904d6335fc8d'
 
 # ectract gresource file
 alias gx-res='gresource extract gtk.gresource'
@@ -79,7 +79,11 @@ alias sys-pip='/usr/bin/pip3'
 #=========== network configs=============================
 alias wifi-off='sudo ifconfig wlp1s0 down'
 alias wifi-on='sudo ifconfig wlp1s0 up'
-alias check-net='ping google.com'
+alias changemymac='sudo ifconfig wlp1s0 down ; sudo macchanger -r wlp1s0 ; sudo ifconfig wlp1s0 up'
+alias changemymac_eth='sudo ifconfig enp2s0 down ; sudo macchanger -r enp2s0 ; sudo ifconfig enp2s0 up'
+alias check-net='ping 1.1.1.1'
 
-# py is pthon3
+
+#===================== py3 is pthon3 and py is also python3 =======================================
 alias py3='python3'
+alias py='python3'
